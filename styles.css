@@ -4,17 +4,10 @@ body {
 }
 
 h1 {
-    color: #000000
+    color: #111111
 }
 
 .container {
     max-width: 960px;
     margin: 0 auto;
-}
-
-img {
-    width: 300px;
-    height: auto;
-    border: 5px solid black; /* Solid-reunaviiva mustana */
-    border-radius: 10px; /* Pyöristetyt kulmat (valinnainen) */
 }
