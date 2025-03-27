@@ -15,5 +15,6 @@ h1 {
 img {
     width: 300px;
     height: auto;
-    border: 5px solid black;
+    border: 5px solid black; /* Solid-reunaviiva mustana */
+    border-radius: 10px; /* Pyöristetyt kulmat (valinnainen) */
 }
